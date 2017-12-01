@@ -1,0 +1,12 @@
+com/jones/ws/service/GreetingService.class
+com/jones/ws/service/EmailServiceBean.class
+com/jones/ws/repository/GreetingRepository.class
+com/jones/ws/utils/AsyncResponse.class
+com/jones/ws/batch/GreetingBatchBean.class
+com/jones/ws/utils/Messages.class
+com/jones/ws/service/GreetingServiceBean.class
+com/jones/ws/model/Greeting.class
+com/jones/ws/service/EmailService.class
+com/jones/ws/web/api/GreetingController.class
+com/jones/ws/Application.class
+com/jones/ws/swagger/SwaggerConfig.class

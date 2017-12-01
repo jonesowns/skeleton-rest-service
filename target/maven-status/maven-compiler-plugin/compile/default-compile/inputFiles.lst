@@ -1,5 +1,12 @@
+/home/jones/workspaces/STS/skeleton-web-services/src/main/java/com/jones/ws/utils/Messages.java
+/home/jones/workspaces/STS/skeleton-web-services/src/main/java/com/jones/ws/repository/GreetingRepository.java
 /home/jones/workspaces/STS/skeleton-web-services/src/main/java/com/jones/ws/model/Greeting.java
+/home/jones/workspaces/STS/skeleton-web-services/src/main/java/com/jones/ws/utils/AsyncResponse.java
+/home/jones/workspaces/STS/skeleton-web-services/src/main/java/com/jones/ws/service/EmailServiceBean.java
 /home/jones/workspaces/STS/skeleton-web-services/src/main/java/com/jones/ws/service/GreetingServiceBean.java
 /home/jones/workspaces/STS/skeleton-web-services/src/main/java/com/jones/ws/service/GreetingService.java
+/home/jones/workspaces/STS/skeleton-web-services/src/main/java/com/jones/ws/batch/GreetingBatchBean.java
+/home/jones/workspaces/STS/skeleton-web-services/src/main/java/com/jones/ws/service/EmailService.java
 /home/jones/workspaces/STS/skeleton-web-services/src/main/java/com/jones/ws/web/api/GreetingController.java
 /home/jones/workspaces/STS/skeleton-web-services/src/main/java/com/jones/ws/Application.java
+/home/jones/workspaces/STS/skeleton-web-services/src/main/java/com/jones/ws/swagger/SwaggerConfig.java
